@@ -22,7 +22,7 @@
 struct queue_struct
 {
 	int data[N];
-	size_t rear;
+	int rear;
 	int front;
 };
 
