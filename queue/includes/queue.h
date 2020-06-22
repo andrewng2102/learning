@@ -1,6 +1,6 @@
 /*
  *
- * stack.h
+ * queue.h
  *
  *
  */
