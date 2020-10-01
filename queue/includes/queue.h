@@ -1,8 +1,6 @@
 /*
  *
- * queue.h
- *
- *
+ * queue.h*
  */
 
 #ifndef INCLUDES_QUEUE_H_
